@@ -2,6 +2,6 @@
 <p align="center">Discord: beano09<br>
 <hr>
 <p align="center">
-  [![I Wanna Labs's GitHub stats](https://github-readme-stats.vercel.app/api?username=IWannaLabs)](https://github.com/anuraghazra/github-readme-stats)
+  <img herf="https://github-readme-stats.vercel.app/api?username=IWannaLabs" alt="IWannaLabs Github Stats"><img>
 </p>
 <hr>
